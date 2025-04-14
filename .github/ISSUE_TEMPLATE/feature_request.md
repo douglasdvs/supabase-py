@@ -1,6 +1,6 @@
 ______________________________________________________________________
 
-name: Feature request
+name: TRANDVS
 about: Suggest an idea for this project
 title: ''
 labels: ''
